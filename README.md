@@ -1,2 +1,2 @@
 # repositorio-NTTDATA
-Esse repositório conterá desafios e projetos relativos ao bootcamp da NTT DATA
+Esse repositório conterá desafios e projetos relativos ao bootcamp da NTT DATA Android Developer.
